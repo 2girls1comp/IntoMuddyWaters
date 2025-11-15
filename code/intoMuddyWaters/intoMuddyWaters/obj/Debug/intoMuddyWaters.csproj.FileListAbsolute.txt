@@ -1,0 +1,8 @@
+C:\Users\alexa\source\repos\intoMuddyWaters\intoMuddyWaters\bin\Debug\intoMuddyWaters.dll
+C:\Users\alexa\source\repos\intoMuddyWaters\intoMuddyWaters\bin\Debug\intoMuddyWaters.pdb
+C:\Users\alexa\source\repos\intoMuddyWaters\intoMuddyWaters\bin\Debug\ScriptHookVDotNet3.dll
+C:\Users\alexa\source\repos\intoMuddyWaters\intoMuddyWaters\obj\Debug\intoMuddyWaters.csproj.AssemblyReference.cache
+C:\Users\alexa\source\repos\intoMuddyWaters\intoMuddyWaters\obj\Debug\intoMuddyWaters.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\intoMuddyWaters\intoMuddyWaters\obj\Debug\intoMudd.E1D388F7.Up2Date
+C:\Users\alexa\source\repos\intoMuddyWaters\intoMuddyWaters\obj\Debug\intoMuddyWaters.dll
+C:\Users\alexa\source\repos\intoMuddyWaters\intoMuddyWaters\obj\Debug\intoMuddyWaters.pdb
