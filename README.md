@@ -1,4 +1,4 @@
-# IntoMuddyWaters
+# Into Muddy Waters
 A mod for GTA V that investigates the in-game legend of the swamp monster.
 
 MOD TRAILER:
